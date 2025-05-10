@@ -43,8 +43,7 @@ Here are some ideas to get you started:
 
 ### 📊 Stats
 
-#### Profile Views
-<img src="https://profile-counter.glitch.me/dinarabs/count.svg" alt="dinarabs" />
+![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2Fdinarabs&leftColor=000000&rightColor=0adb3f&type=unique&label=Visitors&style=none)
 
 <!--<a href="http://www.github.com/dinarabs"><img src="https://github-readme-stats.vercel.app/api?username=dinarabs&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00" alt="dinarabs's GitHub stats"/></a>
 <a href="http://www.github.com/dinarabs">
