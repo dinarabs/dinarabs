@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🛠️ 9+ years in QA automation | 2+ years in Development
 - 📍 Based in Berlin (but dreaming of Seattle 😄)
 
-### 🧰 My Tech Stack
+### 🧰 Tech Stack
 
 
 <p align="left">
