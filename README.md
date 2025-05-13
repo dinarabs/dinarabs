@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👷🏻‍♀️ Experienced with delivering software solutions across fintech, public sector, telecommunications, retail, and B2B startups.
 - 🌱 Currently learning: Hugging Face AI agents course & Kotlin
 - 🔍 Passionate about making people's lives easier with technology
-- 🛠️ 9+ years in QA automation | 2+ years in Development
+- 🛠️ 9 years in QA and Test automation | 2+ years in Development
 - 📍 Based in Berlin (but dreaming of Seattle 😄)
 
 ### 🧰 Tech Stack
