@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👩🏻‍💻 I'm Software Developer with Computer Science background
+- 👩🏻‍💻 I'm Software Engineer with Computer Science background
 - 👷🏻‍♀️ Experienced with delivering software solutions across fintech, public sector, telecommunications, retail, and B2B startups.
 - 🌱 Currently learning: Hugging Face AI agents course & Kotlin
 - 🔍 Passionate about making people's lives easier with technology
